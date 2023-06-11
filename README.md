@@ -23,19 +23,29 @@ ScreenShots From The Applocation:
 Login Page
 
 
-Sign Up Page
 ![image](https://github.com/XERXES-OG/Record_Management/assets/95545385/d78c3f4b-f399-4839-ba4a-56b97420a1b6)
 
-Main Menu
+Sign Up Page
+
+
 ![image](https://github.com/XERXES-OG/Record_Management/assets/95545385/b6ddd7f1-ff7a-4724-81c6-596e3a801fa0)
 
-Demand New Product
+Main Menu
+
+
 ![image](https://github.com/XERXES-OG/Record_Management/assets/95545385/60a1d266-8882-4eca-bee5-6566b36dd4b0)
 
-Edit/Delete Existing Data
+Demand New Product
+
+
 ![image](https://github.com/XERXES-OG/Record_Management/assets/95545385/240abdf4-74ba-4c03-a6f9-d51bf4100f53)
 
-Display Record
+Edit/Delete Existing Data
+
+
 ![image](https://github.com/XERXES-OG/Record_Management/assets/95545385/8681a6ec-3925-42fd-a5b0-4a2f628a2f95)
+
+Display Record
+
 
 
