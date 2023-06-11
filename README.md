@@ -18,8 +18,10 @@ Password=""
 
 ScreenShots From The Applocation:
 
-Login Page:
 ![image](https://github.com/XERXES-OG/Record_Management/assets/95545385/88d20552-e4f7-4f94-b987-b56c0ac7c6c7)
+
+Login Page
+
 
 Sign Up Page
 ![image](https://github.com/XERXES-OG/Record_Management/assets/95545385/d78c3f4b-f399-4839-ba4a-56b97420a1b6)
