@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1EvMQAYIej00K-Ho6e391YXvRJnKVjfEG/view?usp=shari
 
 XAMPP SERVER is required to connect to the database(localhost)
 
-Download required third party plugins (includes JCalender, JTattoo and SQLConnector) :
+Download required third party plugins (includes JCalender, JTable and SQLConnector) :
 https://downloads.mysql.com/archives/c-j/
 https://download.jar-download.com/cache_jars/org.webjars/jTable/2.4.0/jar_files.zip
 https://download.jar-download.com/cache_jars/com.toedter/jcalendar/1.4/jar_files.zip
