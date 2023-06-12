@@ -16,7 +16,7 @@ Credentials:
 UserId="root"
 Password=""
 
-ScreenShots From The Applocation:
+ScreenShots From The Application:
 
 ![image](https://github.com/XERXES-OG/Record_Management/assets/95545385/88d20552-e4f7-4f94-b987-b56c0ac7c6c7)
 
