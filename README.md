@@ -1,5 +1,5 @@
 # Record_Management
-This is a software, developed by me while i was interningin summer of 2023. This is a java application to Insert, Update, Delete and Display records from a database.
+This is a software, developed by me while i was interning in summer of 2023. This is a java application to Insert, Update, Delete and Display records from a database.
 A software developed using Java SE which provides as easy way to track the Demand, Supply Status as well as purchase and sales information. It also records the stock currently deamnded in the store. There are basically two users, Administrator and Normal User. Both the users can manage the record.
 
 Download .sql file for this application
